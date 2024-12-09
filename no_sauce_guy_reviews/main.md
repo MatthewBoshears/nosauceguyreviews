@@ -12,3 +12,4 @@ This list is broken down by approximate locations for each restaurant.
 <br>
 [South Arlington / Arlington Village](arlington_village)
 <br>
+[District of Colombia](district)
