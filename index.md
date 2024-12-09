@@ -8,9 +8,9 @@ permalink: /
 
 Greetings. I'm No Sauce Guy. I prefer my food *without* sauce. I will have reviews from Sauce Guy 1 & 2 (names WIP) alongside my own.
 <br>
-Together, you should be able to get a reasonable opinion. I review things based on my personal opinions and tastes. I'm a vinegar-based barbeque enthusiast and lover of food, generally.
+Together, you should be able to get a reasonable opinion. I review things based on my personal opinions and tastes. I'm a vinegar-based barbeque enthusiast and lover of food, generally. My favorite meat is Duck - to give you an idea. I think food should taste good *without* sauces. If it isn't good without a sauce, the sauce is a crutch. Many of my friends think food is just a vessel for sauces. Thus, the blog. There are dozens of us. *Dozens*.
 <br>
-These are basically all going to be "I could go here once a week" kind of places. I like to eat out around once per week. I try to keep my costs to under $50-60, usually aiming for $20-30. Hard in Northern Virginia, but it's my style.
+These are basically all going to be "I could go here once a week" kind of places. I like to eat out around once per week. I try to keep my costs to under $50-60, usually aiming for $20-30. Hard in Northern Virginia, but it's my style. I typically tip 25% at full service restaurants as a matter of course. This will usually be included in the pricing.
 <br>
 I use the following rating system:
 <br>
