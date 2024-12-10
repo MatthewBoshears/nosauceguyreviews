@@ -24,3 +24,24 @@ I use the following rating system:
 <br>
 5 -> You should prioritize making a trip to go eat at this place. I would drive multiple hours.
 <br>
+
+1: Avoid at all costs. Food poisoning-tier.
+<br>
+2: Extremely disappointing, even if it were free.
+<br>
+3: If someone else is paying, suddenly it's acceptable.
+<br>
+4: Might be okay if you're desperate and nearby. This place is probably empty.
+<br>
+5: Decent food, nothing special. Wouldn't go out of my way, just if I wanted that type of food.
+<br>
+6: Worth considering heavily if you're in the area and hungry.
+<br>
+7: A good experience. I would prioritize eating lunch here. I would not drive here to eat, but if I was nearby I'm probably going here unless I have a desire to eat a certain kind of food.
+<br>
+8: Very good. Worth a short trip.
+<br>
+9: Excellent. Worth a longer trip.
+<br>
+10: Once in a lifetime.
+<br>

@@ -3,10 +3,10 @@ layout: default
 title: No Sauce Guy Reviews
 nav_exclude: true
 description: The Review Page
-permalink: no_sauce_guy_reviews/district
+permalink: /no_sauce_guy_reviews/district
 ---
 
-# District of Colombia Restaurants
+## District of Colombia Restaurants
 
 [Sichuan Pavilion (google maps link)](https://maps.app.goo.gl/qFMVvVhjorP3Xicx5)
 <br>

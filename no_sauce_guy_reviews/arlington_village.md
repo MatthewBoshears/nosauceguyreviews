@@ -3,10 +3,10 @@ layout: default
 title: No Sauce Guy Reviews
 nav_exclude: true
 description: The Review Page
-permalink: no_sauce_guy_reviews/arlington_village
+permalink: /no_sauce_guy_reviews/arlington_village
 ---
 
-### Arlington Village Restaurant Reviews
+## Arlington Village Restaurant Reviews
 
 [Supreme Hot Pot (google maps link)](https://maps.app.goo.gl/vbGLrjoPjdkPMnpD8)
 <br>

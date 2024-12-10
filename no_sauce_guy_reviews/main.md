@@ -10,6 +10,6 @@ permalink: no_sauce_guy_reviews
 <br>
 This list is broken down by approximate locations for each restaurant.
 <br>
-[South Arlington / Arlington Village](arlington_village)
+[South Arlington / Arlington Village](/no_sauce_guy_reviews/arlington_village)
 <br>
-[District of Colombia](district)
+[District of Colombia](/no_sauce_guy_reviews/district)
